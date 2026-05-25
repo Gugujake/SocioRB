@@ -1,8 +1,8 @@
 # 📋 Requisitos do Projeto — SocioRB
 
 ## 🛠️ Requisitos Funcionais (No-Code / Wix)
-* **RF-001:** O sistema deve apresentar de forma visual os três principais monumentos históricos da Esplanada dos Ministérios (Museu, Catedral e Congresso).
-* **RF-002:** O sistema deve exibir detalhes estruturais de acessibilidade física (rampas, elevadores e rotas adaptadas) para cada monumento por meio de janelas interativas (pop-ups/lightboxes) acionadas por clique.
+* **RF-001:** O sistema deve apresentar de forma visual os principais serviços de SócioRB (Museu, Ingressos, Vendas e etc).
+* **RF-002:** O sistema deve exibir detalhes estruturais de acessibilidade física (rampas, elevadores e rotas adaptadas).
 * **RF-003:** O sistema deve conter um menu de navegação superior com links de âncora que realizam o scroll automático para as respectivas seções da página.
 
 ## ⚙️ Requisitos Não-Funcionais / Técnicos (Vibecode)
