@@ -59,4 +59,5 @@ iria fazer.
 
 - Gustavo Magalhães Silva
 - Pedro Henrique Neves
+- Enzo Nunes Ximenes
 - [Acesse o site oficial](https://pedrohenriquends1.wixsite.com/cios-do-flamengo) 
