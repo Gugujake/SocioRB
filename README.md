@@ -27,11 +27,11 @@ Nossa proposta foi a criação do SóciosRB, voltado específicamemte para pesso
 
 Liste pelo menos **3 vantagens** percebidas no uso da abordagem low code/no code/vibecode:
 
-1. Velocidade de Entrega
+1. Achamos a interface bem intuitiva e fácil de lidar.
 
-2. Desenvolvimento
+2. Muitos modelos para fazer e criar, você até se perde com tanta opção.
 
-3. Redução de tempo
+3. Redução de tempo.
 
 ---
 
@@ -39,17 +39,17 @@ Liste pelo menos **3 vantagens** percebidas no uso da abordagem low code/no code
 
 Liste pelo menos **3 limitações** percebidas:
 
-1. Memória (não lembravamos muito de alguns temas estudados)
+1. Depois que o site foi criado não conseguimos criar outro template, então tem que fazer tudo antes.
+   
+2. Meio confuso
 
-2. cooperação
-
-3. Tempo livre
+3. Só poíamos pegar coisas e adicionar da mesma plataforma, ou seja, não tem como adicionar coisas de outra plataforma.
 
 ---
 
 ## 📚 Reflexão Crítica
 
-Escolhemos um tema em que somos interligados, já que a dupla conhece muito do mundo esporte
+Escolhemos um tema em que somos interligados, já que o trio conhece muito do mundo esporte
 então não foi uma tarefa muito difícil nesse quesito, só nos separamos as partes que cada um
 iria fazer.
 
