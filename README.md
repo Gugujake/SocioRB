@@ -1,6 +1,10 @@
 # SocioRB
 
-## 📌 Desafio Escolhido
+## 📌 Desafio Escolhido Por 
+
+- Gustavo Magalhães Silva
+- Pedro Henrique Neves
+- Enzo Nunes Ximenes
 
 Nosso objetivo foi desenvolver um protótipo funcional utilizando abordagens Low Code / No Code / Vibecode, explorando ferramentas capazes de acelerar o desenvolvimento de aplicações sem exigir programação tradicional em larga escala.
 
@@ -54,10 +58,26 @@ então não foi uma tarefa muito difícil nesse quesito, só nos separamos as pa
 iria fazer.
 
 ---
-
+  
 ## 👥 Colaboração
 
-- Gustavo Magalhães Silva
-- Pedro Henrique Neves
-- Enzo Nunes Ximenes
+Nosso grupo dividiu as tarefas da seguinte forma:
+
+👉 Escolha da plataforma ideal para o desafio proposto
+👉 Criação do prompt de inicio para a criação do prototipo inicial
+👉 Ajustes do protótipo dentro da plataforma.
+👉 Organização do repositório e relatórios.
+
+---
+
+## 📝 Registro da Aula
+
+Data: **11/05/2026**  
+
+Atividade: Discussão crítica + mini-projeto de aplicação  
+
+Local: Laboratório de informática / Quadro branco  
+
+Professor(a): Kadidja Valéria 
+
 - [Acesse o site oficial](https://pedrohenriquends1.wixsite.com/cios-do-flamengo) 
